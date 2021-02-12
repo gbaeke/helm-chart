@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  go-template:
+  - apiVersion: v2
+    appVersion: 0.0.2
+    created: "2021-02-12T18:32:28.646998425+01:00"
+    description: A Helm chart for go-template
+    digest: 57e346ddb30e15b22fc723419474a9e3ee36d68b968bae0444428fa5d6cc5987
+    name: go-template
+    type: application
+    urls:
+    - https://gbaeke.github.io/helm-chart/go-template-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-02-12T18:32:28.646313525+01:00"
