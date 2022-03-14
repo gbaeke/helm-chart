@@ -1,14 +1,24 @@
 apiVersion: v1
 entries:
-  go-template:
+  super-api:
   - apiVersion: v2
-    appVersion: 0.0.2
-    created: "2021-02-12T18:32:28.646998425+01:00"
-    description: A Helm chart for go-template
-    digest: 57e346ddb30e15b22fc723419474a9e3ee36d68b968bae0444428fa5d6cc5987
-    name: go-template
+    appVersion: 1.0.3
+    created: "2022-03-14T17:31:44.624075504+01:00"
+    description: A Helm chart for super-api
+    digest: b03327709cde69ab35e4747303dc2b9b042b2671afafdf0989a3b4aef41a7777
+    home: https://github.com/gbaeke/super-api
+    keywords:
+    - api
+    - super-api
+    - golang
+    maintainers:
+    - email: me@example.com
+      name: gbaeke
+    name: super-api
+    sources:
+    - https://github.com/gbaeke/super-api
     type: application
     urls:
-    - https://gbaeke.github.io/helm-chart/go-template-0.1.0.tgz
-    version: 0.1.0
-generated: "2021-02-12T18:32:28.646313525+01:00"
+    - super-api-1.0.0.tgz
+    version: 1.0.0
+generated: "2022-03-14T17:31:44.623184572+01:00"
